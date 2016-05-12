@@ -1,2 +1,4 @@
-# PixelInSegments
+
+# PixelinSegments
+
 Sorting pixels in each segment of a segmented image
