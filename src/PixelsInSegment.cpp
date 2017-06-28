@@ -3,7 +3,7 @@
 #
 # Sorting Pixels in Segmented Remote Sensing Images
 #
-# Copyright (C) 2015 CSISS, GMU (http://csiss.gmu.edu), Ziheng Sun (szhwhu@gmail.com), Liping Di (ldi@gmu.edu)
+# Copyright (C) 2019 Ziheng Sun (szhwhu@gmail.com)
 #
 # This source is free software; you can redistribute it and/or modify it under
 # the terms of the GNU General Public License as published by the Free
@@ -39,7 +39,7 @@
 
   \/\/\/\/\/\/\/\/\/\/\/
   
-  Created time: May 1, 2016.  
+  Created time: May 1, 2019.  
  
   Authors: Ziheng Sun (szhwhu@gmail.com), Hui Fang.
    
